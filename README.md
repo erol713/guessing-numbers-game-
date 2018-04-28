@@ -1,2 +1,2 @@
 # guessing-numbers-game
-small scale console game for guessing numbers
+small-scale console game for guessing numbers
